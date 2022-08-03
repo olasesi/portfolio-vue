@@ -1,4 +1,4 @@
-# new-vue
+# new-vue2
 
 ## Project setup
 ```
